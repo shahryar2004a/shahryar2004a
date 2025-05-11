@@ -29,6 +29,24 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- 📝 [My Portfolio Website](https://github.com/shahryar2004a/portfolio) – A personal portfolio built with React, Tailwind, and animations  
+- 🛒 [E-commerce Frontend](https://github.com/shahryar2004a/ecommerce-app) – Shopping cart with Redux, filters, and responsive layout  
+- 🎮 [Simple Game UI](https://github.com/shahryar2004a/game-ui) – Basic UI built with React and CSS animations  
+
+---
+
+### 🎯 Goals for 2025
+
+- Contribute to open-source projects
+- Master TypeScript deeply
+- Learn backend with Express.js & MongoDB
+- Build a full-stack project with authentication
+- Improve UI/UX design skills
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahryar2004a&show_icons=true&theme=radical" alt="Shahryar's GitHub stats" />
@@ -41,3 +59,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahryar-astinchap)
 
 ---
+
+### 💡 Quote
+
+> "_Clean code is not written, it is rewritten._"  
+> — Me, after 3 AM debugging sessions 😄
