@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shahryar</h1>
-<h3 align="center">A passionate Front-End Developer learning TypeScript</h3>
+<h3 align="center">A passionate Front-End Developer</h3>
 
 ---
 
