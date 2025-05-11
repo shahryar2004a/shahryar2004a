@@ -29,14 +29,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- 📝 [My Portfolio Website](https://github.com/shahryar2004a/portfolio) – A personal portfolio built with React, Tailwind, and animations  
-- 🛒 [E-commerce Frontend](https://github.com/shahryar2004a/ecommerce-app) – Shopping cart with Redux, filters, and responsive layout  
-- 🎮 [Simple Game UI](https://github.com/shahryar2004a/game-ui) – Basic UI built with React and CSS animations  
-
----
-
 ### 🎯 Goals for 2025
 
 - Contribute to open-source projects
